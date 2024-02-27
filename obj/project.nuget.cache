@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "QV36MzgqordYuKAGDkR8k3Y9n0BG/K+Gc85AynnP58/us+09E7HHRg6mPtgiRUemPXbcWWR0rfoZPlMLkA28kA==",
+  "success": true,
+  "projectFilePath": "c:\\MyProject\\MyTerraria\\MyTerraria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Николай\\.nuget\\packages\\csfml\\2.5.2\\csfml.2.5.2.nupkg.sha512",
+    "C:\\Users\\Николай\\.nuget\\packages\\sfml.audio\\2.5.1\\sfml.audio.2.5.1.nupkg.sha512",
+    "C:\\Users\\Николай\\.nuget\\packages\\sfml.graphics\\2.5.1\\sfml.graphics.2.5.1.nupkg.sha512",
+    "C:\\Users\\Николай\\.nuget\\packages\\sfml.net\\2.5.1\\sfml.net.2.5.1.nupkg.sha512",
+    "C:\\Users\\Николай\\.nuget\\packages\\sfml.system\\2.5.1\\sfml.system.2.5.1.nupkg.sha512",
+    "C:\\Users\\Николай\\.nuget\\packages\\sfml.window\\2.5.1\\sfml.window.2.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
